@@ -2,6 +2,9 @@
 
 My full paper list is shown at [my personal homepage](https://zoujian310.github.io/).
 #### 🎙 2025
+
+- Bohuai Xiao,  **Jian Zou**, Mengchao Guo, Jiaoyan Zhao, Fanyang Meng, and Yongsheng Liang*, A Joint Source–Channel Coding Framework for Robust Video Transmission over Fading Channels, **<i>IEEE Internet of Things Journal  (Under Review)</i>**. 
+
 - Wen Liang, Xuejuan Hu*, **Jian Zou**, Zihao Cheng, Qianding Gao, and Lihu Wang*, LFE-YOLOv9: Lightweight multi-scale feature enhancement network for X-Ray image-based battery detection, **<i>IEEE sensors journal  (Under Review)</i>**. 
 
  - **Jian Zou**, Jian Xiao, Wenwu Xie, Fanyang Meng,  Renhai Feng, Liang Yang, and Yongsheng Liang*, Superimposed pilots-based adaptive semantic communication in MU-MIMO OFDM systems, **<i>IEEE transactions on wireless communications (Under Review)</i>**. 
