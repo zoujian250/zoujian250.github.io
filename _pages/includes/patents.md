@@ -1,5 +1,7 @@
 # 💬 Patents
 
+- *2026.03.03* Yongsheng Liang, **Jian Zou**, Mengchao Guo, Yifan, Bohuai Xiao, **<i>Method and System for Constructing a Lightweight Deep Receiver, Receiver, Device, and Medium</i>**, Publication No. ZL202511893631.5. [<a target="_blank" href="./images/Patent_3.pdf" >File</a>]
+
 - *2025.08.25* Yongsheng Liang, **Jian Zou**, Bohuai Xiao, Qingyu Mao, Ziyi Li, **<i>Method, system, device, and medium for constructing a video codec transmission system</i>**, Publication No. ZL202510787968.1. [<a target="_blank" href="./images/Patent_2.pdf" >File</a>]
 
 - *2025.04.11* Yongsheng Liang, **Jian Zou**, Jingyan Jiang, Qingyu Mao, Bohuai Xiao, **<i>Method for constructing a deep receiver, and corresponding system, receiver, device, and storage medium</i>**, Publication No. ZL202510253034.X.
