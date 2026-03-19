@@ -3,7 +3,7 @@
 My full paper list is shown at [my personal homepage](https://zoujian310.github.io/).
 
 #### 🧑‍🎨 2026
-- Wenwu Xie, Li Chen, **Jian Zou**, Jie Zhang, Renhai Feng, Zhengqiang Wang, Jun Zhang*, Secure Semantic Communication for 6G: Architecture, Challenges, and Future Directions, **<i>IEEE Network  (Under Review)</i>**. 
+- Wenwu Xie, Li Chen, **Jian Zou**, Jie Zhang, Renhai Feng, Zhengqiang Wang, Jun Zhang*, Secure semantic communication for 6G: Architecture, challenges, and future directions, **<i>IEEE Network  (Under Review)</i>**. 
 
  - Mengchao Guo, **Jian Zou**,  Qingyu Mao, Jihe Wu, Fanyang Meng, and Yongsheng Liang*, DSTformer: Dual-stream transformer for robust EEG-EMG fusion in cognitive state decoding, **<i>Displays (Under Review)</i>**.
 
