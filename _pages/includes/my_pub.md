@@ -5,17 +5,15 @@ My full paper list is shown at [my personal homepage](https://zoujian310.github.
 #### 🧑‍🎨 2026
 - Wenwu Xie, Li Chen, **Jian Zou**, Jie Zhang, Renhai Feng, Zhengqiang Wang, Jun Zhang*, Secure Semantic Communication for 6G: Architecture, Challenges, and Future Directions, **<i>IEEE Network  (Under Review)</i>**. 
 
+%- Bohuai Xiao,  **Jian Zou**, Mengchao Guo, Jiaoyan Zhao, Fanyang Meng, and Yongsheng Liang*, A joint source-channel coding framework for robust video transmission over fading channels, **<i>IEEE Internet of Things Journal  (Rejected)</i>**. 
 
+ - Mengchao Guo, **Jian Zou**,  Qingyu Mao, Jihe Wu, Fanyang Meng, and Yongsheng Liang*, DSTformer: Dual-stream transformer for robust EEG-EMG fusion in cognitive state decoding, **<i>Displays (Under Review)</i>**.
 
 #### 🎙 2025
-
-- Bohuai Xiao,  **Jian Zou**, Mengchao Guo, Jiaoyan Zhao, Fanyang Meng, and Yongsheng Liang*, A joint source-channel coding framework for robust video transmission over fading channels, **<i>IEEE Internet of Things Journal  (Rejected)</i>**. 
 
 - Wen Liang, Xuejuan Hu*, **Jian Zou**, Zihao Cheng, Qianding Gao, and Lihu Wang*, LFE-YOLOv9: Lightweight multi-scale feature enhancement network for X-Ray image-based battery detection, **<i>IEEE Sensors Journal  (Under Review)</i>**. 
 
  - **Jian Zou**, Jian Xiao, Wenwu Xie, Fanyang Meng,  Renhai Feng, Liang Yang, and Yongsheng Liang*, Superimposed pilots-based adaptive semantic communication in MU-MIMO OFDM systems, **<i>IEEE Transactions on Wireless Communications (Under Review)</i>**. 
-
- - Mengchao Guo, **Jian Zou**,  Qingyu Mao, Jihe Wu, Fanyang Meng, and Yongsheng Liang*, DSTformer: Dual-stream transformer for robust EEG-EMG fusion in cognitive state decoding, **<i>Displays (Under Review)</i>**.
 
  - Zihao Cheng,  Xuejuan Hu*, Yuejie Huang, Lingling Chen, **Jian Zou**, Jianze Ye, Weizhi Yao, Miao Chen, Qianding Gao, and Wen Liang, [DDLRN: A dual-domain lightweight network for high-fidelity super-resolution reconstruction in structured illumination microscopy](https://www.sciencedirect.com/science/article/pii/S0030399225018122?dgcid=coauthor), **<i>Optics and Laser Technology</i>**.
 
