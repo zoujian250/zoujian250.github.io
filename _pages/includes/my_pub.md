@@ -5,8 +5,6 @@ My full paper list is shown at [my personal homepage](https://zoujian310.github.
 #### 🧑‍🎨 2026
 - Wenwu Xie, Li Chen, **Jian Zou**, Jie Zhang, Renhai Feng, Zhengqiang Wang, Jun Zhang*, Secure Semantic Communication for 6G: Architecture, Challenges, and Future Directions, **<i>IEEE Network  (Under Review)</i>**. 
 
-#- Bohuai Xiao,  **Jian Zou**, Mengchao Guo, Jiaoyan Zhao, Fanyang Meng, and Yongsheng Liang*, A joint source-channel coding framework for robust video transmission over fading channels, **<i>IEEE Internet of Things Journal  (Rejected)</i>**. 
-
  - Mengchao Guo, **Jian Zou**,  Qingyu Mao, Jihe Wu, Fanyang Meng, and Yongsheng Liang*, DSTformer: Dual-stream transformer for robust EEG-EMG fusion in cognitive state decoding, **<i>Displays (Under Review)</i>**.
 
 #### 🎙 2025
