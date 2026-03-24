@@ -3,6 +3,9 @@
 My full paper list is shown at [my personal homepage](https://zoujian310.github.io/).
 
 #### 🧑‍🎨 2026
+
+- Wenwu Xie, Zilong Li, Jian Zou, Ji Wang, Dan Yu*, Liang Yang, and Xingwang Li, A Two-Stage Optimization Framework for Movable Antenna: From Positioning to Trajectory Tracking, **<i>IEEE Transactions on Cognitive Communications and Networking  (Under Review)</i>**. 
+
 - Wenwu Xie, Li Chen, **Jian Zou**, Jie Zhang, Renhai Feng, Zhengqiang Wang, Jun Zhang*, Secure semantic communication for 6G: Architecture, challenges, and future directions, **<i>IEEE Network  (Under Review)</i>**. 
 
  - Mengchao Guo, **Jian Zou**,  Qingyu Mao, Jihe Wu, Fanyang Meng, and Yongsheng Liang*, DSTformer: Dual-stream transformer for robust EEG-EMG fusion in cognitive state decoding, **<i>Displays (Under Review)</i>**.
