@@ -4,7 +4,11 @@ My full paper list is shown at [my personal homepage](https://zoujian310.github.
 
 #### 🧑‍🎨 2026
 
-- Wenwu Xie, Zilong Li, Jian Zou, Ji Wang, Dan Yu*, Liang Yang, and Xingwang Li, A Two-Stage Optimization Framework for Movable Antenna: From Positioning to Trajectory Tracking, **<i>IEEE Transactions on Cognitive Communications and Networking  (Under Review)</i>**. 
+- Yangxuan Cheng, Fanyang Meng, **Jian Zou**,  Jiacheng Xie,  Zhongqiang Zhang, Ye Wang, and Yongsheng Liang*, Variable-length finite-rate CSI feedback with generative priors, **<i>IEEE Wireless Communications Letters  (Under Review)</i>**. 
+
+- Wenwu Xie, Xiangyu Huang, **Jian Zou**,  Liang Yang,  and Dan Yu*, Video semantic communication based on adaptive two-stream network, **<i>IEEE Wireless Communications Letters  (Under Review)</i>**. 
+
+- Wenwu Xie, Zilong Li, **Jian Zou**, Ji Wang, Dan Yu*, Liang Yang, and Xingwang Li, A two-stage optimization framework for movable antenna: From positioning to trajectory tracking, **<i>IEEE Transactions on Cognitive Communications and Networking  (Under Review)</i>**. 
 
 - Wenwu Xie, Li Chen, **Jian Zou**, Jie Zhang, Renhai Feng, Zhengqiang Wang, Jun Zhang*, Secure semantic communication for 6G: Architecture, challenges, and future directions, **<i>IEEE Network  (Under Review)</i>**. 
 
