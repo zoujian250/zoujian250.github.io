@@ -4,7 +4,7 @@ My full paper list is shown at [my personal homepage](https://zoujian310.github.
 
 #### 🧑‍🎨 2026
 
- - **Jian Zou**,  Yifan Lian, Yongsheng Liang*, Fanyang Meng, Wenwu Xie, Liang Yang, and Jian Xiao, When semantic communication meets pinching-antennas: Shift-MoE for CSI feedback, **<i>IEEE Wireless Communications Letters  (Under Review)</i>**. 
+ - **Jian Zou**,  Yifan Lian, Yongsheng Liang*, Fanyang Meng, Wenwu Xie, Liang Yang, and Jian Xiao, When semantic communication meets pinching-antennas: Shift-MoE for CSI feedback, **<i>IEEE Wireless Communications Letters  (Reject (Resubmission Allowed))</i>**. 
 
 - Yangxuan Cheng, Fanyang Meng, **Jian Zou**,  Jiacheng Xie,  Zhongqiang Zhang, Ye Wang, and Yongsheng Liang*, Variable-length finite-rate CSI feedback with generative priors, **<i>IEEE Wireless Communications Letters  (Under Review)</i>**. 
 
@@ -12,19 +12,15 @@ My full paper list is shown at [my personal homepage](https://zoujian310.github.
 
 - Wenwu Xie, Zilong Li, **Jian Zou**, Ji Wang, Dan Yu*, Liang Yang, and Xingwang Li, A two-stage optimization framework for movable antenna: From positioning to trajectory tracking, **<i>IEEE Transactions on Cognitive Communications and Networking  (Under Review)</i>**. 
 
-- Wenwu Xie, Li Chen, **Jian Zou**, Jie Zhang, Renhai Feng, Zhengqiang Wang, Jun Zhang*, Secure semantic communication for 6G: Architecture, challenges, and future directions, **<i>IEEE Network  (Under Review)</i>**. 
-
- - Mengchao Guo, **Jian Zou**,  Qingyu Mao, Jihe Wu, Fanyang Meng, and Yongsheng Liang*, DSTformer: Dual-stream transformer for robust EEG-EMG fusion in cognitive state decoding, **<i>Displays (Under Review)</i>**.
+- Wenwu Xie, Li Chen, **Jian Zou**, Jie Zhang, Renhai Feng, Zhengqiang Wang, Jun Zhang*, Secure semantic communication for 6G: Architecture, challenges, and future directions, **<i>IEEE Network (Accepted)</i>**. 
 
 #### 🎙 2025
-
-- Wen Liang, Xuejuan Hu*, **Jian Zou**, Zihao Cheng, Qianding Gao, and Lihu Wang*, LFE-YOLOv9: Lightweight multi-scale feature enhancement network for X-Ray image-based battery detection, **<i>IEEE Sensors Journal  (Under Review)</i>**. 
 
  - **Jian Zou**, Jian Xiao, Wenwu Xie, Fanyang Meng,  Renhai Feng, Liang Yang, and Yongsheng Liang*, Superimposed pilots-based adaptive semantic communication in MU-MIMO OFDM systems, **<i>IEEE Transactions on Wireless Communications (Under Review)</i>**. 
 
  - Zihao Cheng,  Xuejuan Hu*, Yuejie Huang, Lingling Chen, **Jian Zou**, Jianze Ye, Weizhi Yao, Miao Chen, Qianding Gao, and Wen Liang, [DDLRN: A dual-domain lightweight network for high-fidelity super-resolution reconstruction in structured illumination microscopy](https://www.sciencedirect.com/science/article/pii/S0030399225018122?dgcid=coauthor), **<i>Optics and Laser Technology</i>**.
 
- - Bohuai Xiao,  **Jian Zou**, Fanyang Meng, Wei Liu, and Yongsheng Liang*,  [Robust deep joint source-channel coding for video transmission over multipath fading channel](https://ieeexplore.ieee.org/document/11432569), **<i>IEEE Global Communications Conference (Accepted)</i>**.
+ - Bohuai Xiao,  **Jian Zou**, Fanyang Meng, Wei Liu, and Yongsheng Liang*,  [Robust deep joint source-channel coding for video transmission over multipath fading channel](https://ieeexplore.ieee.org/document/11432569), **<i>IEEE Global Communications Conference</i>**.
 
 - Han Shen, Qifu Tyler Sun, Fanyang Meng, Ye Wang, **Jian Zou**, Zongpeng Li,  and Yongsheng Liang*, A learned network coding scheme for robust image transmission in lossy relay networks, **<i>IEEE Transactions on Cognitive Communications and Networking (IEEE TCCN) (Under Review)</i>**. 
 
