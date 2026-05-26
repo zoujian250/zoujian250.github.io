@@ -16,7 +16,7 @@ My full paper list is shown at [my personal homepage](https://zoujian310.github.
 
 #### 🎙 2025
 
- - **Jian Zou**, Jian Xiao, Wenwu Xie, Fanyang Meng,  Renhai Feng, Liang Yang, and Yongsheng Liang*, Superimposed pilots-based adaptive semantic communication in MU-MIMO OFDM systems, **<i>IEEE Transactions on Wireless Communications (Accepted)</i>**. 
+ - **Jian Zou**, Jian Xiao, Wenwu Xie, Fanyang Meng,  Renhai Feng, Liang Yang, and Yongsheng Liang*, [Superimposed pilots-based adaptive semantic communication in MU-MIMO OFDM systems](https://ieeexplore.ieee.org/document/11534973), **<i>IEEE Transactions on Wireless Communications</i>**. 
 
  - Zihao Cheng,  Xuejuan Hu*, Yuejie Huang, Lingling Chen, **Jian Zou**, Jianze Ye, Weizhi Yao, Miao Chen, Qianding Gao, and Wen Liang, [DDLRN: A dual-domain lightweight network for high-fidelity super-resolution reconstruction in structured illumination microscopy](https://www.sciencedirect.com/science/article/pii/S0030399225018122?dgcid=coauthor), **<i>Optics and Laser Technology</i>**.
 
