@@ -6,7 +6,7 @@ My full paper list is shown at [my personal homepage](https://zoujian310.github.
 
  - **Jian Zou**,  Yifan Lian, Yongsheng Liang*, Fanyang Meng, Wenwu Xie, Liang Yang, and Jian Xiao, When semantic communication meets pinching-antennas: Shift-MoE for CSI feedback, **<i>IEEE Wireless Communications Letters  (Reject (Resubmission Allowed))</i>**. 
 
-- Yangxuan Cheng, Fanyang Meng, **Jian Zou**,  Jiacheng Xie,  Zhongqiang Zhang, Ye Wang, and Yongsheng Liang*, Variable-length finite-rate CSI feedback with generative priors, **<i>IEEE Wireless Communications Letters  (Under Review)</i>**. 
+- Yangxuan Cheng, Fanyang Meng, **Jian Zou**,  Jiacheng Xie,  Zhongqiang Zhang, Ye Wang, and Yongsheng Liang*, Variable-length finite-rate CSI feedback with generative priors, **<i>IEEE Wireless Communications Letters  (Reject (Resubmission Allowed))</i>**. 
 
 - Wenwu Xie, Xiangyu Huang, **Jian Zou**,  Liang Yang,  and Dan Yu*, Video semantic communication based on adaptive two-stream network, **<i>IEEE Wireless Communications Letters  (Under Review)</i>**. 
 
