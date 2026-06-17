@@ -12,7 +12,7 @@ My full paper list is shown at [my personal homepage](https://zoujian310.github.
 
 - Wenwu Xie, Zilong Li, **Jian Zou**, Ji Wang, Dan Yu*, Liang Yang, and Xingwang Li, A two-stage optimization framework for movable antenna: From positioning to trajectory tracking, **<i>IEEE Transactions on Cognitive Communications and Networking  (Under Review)</i>**. 
 
-- Wenwu Xie, Li Chen, **Jian Zou**, Jie Zhang, Renhai Feng, Zhengqiang Wang, Jun Zhang*, Secure semantic communication for 6G: Architecture, challenges, and future directions, **<i>IEEE Network (Accepted)</i>**. 
+- Wenwu Xie, Li Chen, **Jian Zou**, Jie Zhang, Renhai Feng, Zhengqiang Wang, Jun Zhang*, [Secure semantic communication for 6G: Architecture, challenges, and future directions](https://ieeexplore.ieee.org/document/11568253), **<i>IEEE Network</i>**. 
 
 #### 🎙 2025
 
