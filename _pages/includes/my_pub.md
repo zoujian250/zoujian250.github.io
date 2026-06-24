@@ -4,7 +4,7 @@ My full paper list is shown at [my personal homepage](https://zoujian310.github.
 
 #### 🧑‍🎨 2026
 
-- Wenwu Xie, Li Chen, Jian Zou, Liang Yang, Ji Wang, and Peng Zhu*, Power-Adaptive Superposition Coding-Based Secure Semantic Communication System for Image Transmission, **<i>IEEE Transactions on Communications</i>**.
+- Wenwu Xie, Li Chen, **Jian Zou**, Liang Yang, Ji Wang, and Peng Zhu*, Power-Adaptive Superposition Coding-Based Secure Semantic Communication System for Image Transmission, **<i>IEEE Transactions on Communications</i>**.
 
  - **Jian Zou**,  Yifan Lian, Yongsheng Liang*, Fanyang Meng, Wenwu Xie, Liang Yang, and Jian Xiao, When semantic communication meets pinching-antennas: Shift-MoE for CSI feedback, **<i>IEEE Wireless Communications Letters  (Reject (Resubmission Allowed))</i>**. 
 
