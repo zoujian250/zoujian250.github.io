@@ -24,7 +24,7 @@ My full paper list is shown at [my personal homepage](https://zoujian310.github.
 
  - Bohuai Xiao,  **Jian Zou**, Fanyang Meng, Wei Liu, and Yongsheng Liang*,  [Robust deep joint source-channel coding for video transmission over multipath fading channel](https://ieeexplore.ieee.org/document/11432569), **<i>IEEE Global Communications Conference</i>**.
 
-- Han Shen, Qifu Tyler Sun, Fanyang Meng, Ye Wang, **Jian Zou**, Zongpeng Li,  and Yongsheng Liang*, A learned network coding scheme for robust image transmission in lossy relay networks, **<i>IEEE Transactions on Cognitive Communications and Networking (IEEE TCCN) (Accepted)</I>**. 
+- Han Shen, Qifu Tyler Sun, Fanyang Meng, Ye Wang, **Jian Zou**, Zongpeng Li,  and Yongsheng Liang*, [A learned network coding scheme for robust image transmission in lossy relay networks](https://ieeexplore.ieee.org/document/11573825/), **<i>IEEE Transactions on Cognitive Communications and Networking (IEEE TCCN)</I>**. 
 
  - Jianze Ye, Xuejuan Hu*, Lingling Chen, Yuejie Huang, Hengliang Wang, **Jian Zou**, Zihao Cheng, Qianding Gao, Jingli Zhong, Shiqian Liu, and Minfei Li, [UT-SIM: A transformer-based feature fusion network for super-resolution reconstruction in structured illumination
 microscopy](https://www.sciencedirect.com/science/article/pii/S0030399225011429?dgcid=coauthor), **<i>Optics and Laser Technology</i>**.
