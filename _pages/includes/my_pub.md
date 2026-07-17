@@ -4,15 +4,17 @@ My full paper list is shown at [my personal homepage](https://zoujian310.github.
 
 #### 🧑‍🎨 2026
 
-- Wenwu Xie, Li Chen, **Jian Zou**, Liang Yang, Ji Wang, and Peng Zhu*, Power-Adaptive Superposition Coding-Based Secure Semantic Communication System for Image Transmission, **<i>IEEE Transactions on Communications</i>**.
+- **Jian Zou**, Jian Xiao, Wenwu Xie, Fanyang Meng,  Renhai Feng, Liang Yang, and Yongsheng Liang*, Power-Adaptive Superposition Coding-Based Semantic Communication for Video Transmission, **<i>IEEE Transactions on Wireless Communications (Under Review)</i>**. 
 
- - **Jian Zou**,  Yifan Lian, Yongsheng Liang*, Fanyang Meng, Wenwu Xie, Liang Yang, and Jian Xiao, When semantic communication meets pinching-antennas: Shift-MoE for CSI feedback, **<i>IEEE Wireless Communications Letters  (Reject (Resubmission Allowed))</i>**. 
+- Wenwu Xie, Li Chen, **Jian Zou**, Liang Yang, Ji Wang, and Peng Zhu*, Power-Adaptive Superposition Coding-Based Secure Semantic Communication System for Image Transmission, **<i>IEEE Transactions on Communications (Under Review)</i>**.
 
-- Yangxuan Cheng, Fanyang Meng, **Jian Zou**,  Jiacheng Xie,  Zhongqiang Zhang, Ye Wang, and Yongsheng Liang*, Variable-length finite-rate CSI feedback with generative priors, **<i>IEEE Wireless Communications Letters  (Reject (Resubmission Allowed))</i>**. 
+- Hao Qi, Ye Wang, **Jian Zou**, Fanyang Meng, Zhongqiang Zhang, Bin Li, and Yongsheng Liang*, Compressed-Sensing-Based Deep JSCC for Resource-Constrained Remote Sensing Transmission, **<i>IEEE Wireless Communications Letters (Reject (Resubmission Allowed))</i>**. 
 
-- Wenwu Xie, Xiangyu Huang, **Jian Zou**,  Liang Yang,  and Dan Yu*, Video semantic communication based on adaptive two-stream network, **<i>IEEE Wireless Communications Letters  (Under Review)</i>**. 
+- **Jian Zou**,  Yifan Lian, Yongsheng Liang*, Fanyang Meng, Wenwu Xie, Liang Yang, and Jian Xiao, Shift-MoE-Based DJSCC for CSI Feedback in Multi-user Piching-Antenna Systems, **<i>IEEE Communications Letters (Under Review)</I>**. 
 
-- Wenwu Xie, Zilong Li, **Jian Zou**, Ji Wang, Dan Yu*, Liang Yang, and Xingwang Li, A two-stage optimization framework for movable antenna: From positioning to trajectory tracking, **<i>IEEE Transactions on Cognitive Communications and Networking  (Under Review)</i>**. 
+- Yangxuan Cheng, Fanyang Meng, **Jian Zou**,  Jiacheng Xie,  Zhongqiang Zhang, Ye Wang, and Yongsheng Liang*, Variable-length finite-rate CSI feedback with generative priors, **<i>IEEE Wireless Communications Letters (Reject (Resubmission Allowed))</i>**. 
+
+- Wenwu Xie, Zilong Li, **Jian Zou**, Ji Wang, Dan Yu*, Liang Yang, and Xingwang Li, A two-stage optimization framework for movable antenna: From positioning to trajectory tracking, **<i>IEEE Transactions on Cognitive Communications and Networking (Under Review)</i>**. 
 
 - Wenwu Xie, Li Chen, **Jian Zou**, Jie Zhang, Renhai Feng, Zhengqiang Wang, Jun Zhang*, [Secure semantic communication for 6G: Architecture, challenges, and future directions](https://ieeexplore.ieee.org/document/11568253), **<i>IEEE Network</i>**. 
 
