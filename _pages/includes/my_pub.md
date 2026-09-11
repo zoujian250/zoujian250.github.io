@@ -4,13 +4,11 @@ My full paper list is shown at [my personal homepage](https://zoujian310.github.
 
 #### 🧑‍🎨 2026
 
+- Wenwu Xie, Zhuo Sun, Zilong Li, Liang Yang, **Jian Zou**, Sum Semantic Rate Maximization for Movable Antenna-Assisted Multiuser Communications, **<i>IEEE Communications Letters (IEEE CL) (Under Review)</i>**. 
+
 - **Jian Zou**, Mengchao Guo, Bohuai Xiao, Wenwu Xie, Fanyang Meng,  Renhai Feng, Liang Yang, and Yongsheng Liang*, Power-Adaptive Superposition Coding-Based Semantic Communication for Video Transmission, **<i>IEEE Transactions on Wireless Communications (Under Review)</i>**. 
 
-- Wenwu Xie, Li Chen, **Jian Zou**, Liang Yang, Ji Wang, and Peng Zhu*, Power-Adaptive Superposition Coding-Based Secure Semantic Communication System for Image Transmission, **<i>IEEE Transactions on Communications (Under Review)</i>**.
-
 - Hao Qi, Ye Wang, **Jian Zou**, Fanyang Meng, Zhongqiang Zhang, Bin Li, and Yongsheng Liang*, Compressed-Sensing-Based Deep JSCC for Resource-Constrained Remote Sensing Transmission, **<i>IEEE Wireless Communications Letters (Accepted)</I>**. 
-
-- **Jian Zou**,  Yifan Lian, Yongsheng Liang*, Fanyang Meng, Wenwu Xie, Liang Yang, and Jian Xiao, Shift-MoE-Based DJSCC for CSI Feedback in Multi-user Piching-Antenna Systems, **<i>IEEE Communications Letters (Under Review)</I>**. 
 
 - Yangxuan Cheng, Fanyang Meng, **Jian Zou**,  Jiacheng Xie,  Zhongqiang Zhang, Ye Wang, and Yongsheng Liang*, Variable-length finite-rate CSI feedback with generative priors, **<i>IEEE Wireless Communications Letters (Accepted)</I>**. 
 
