@@ -8,9 +8,9 @@ My full paper list is shown at [my personal homepage](https://zoujian310.github.
 
 - **Jian Zou**, Mengchao Guo, Bohuai Xiao, Wenwu Xie, Fanyang Meng,  Renhai Feng, Liang Yang, and Yongsheng Liang*, Power-Adaptive Superposition Coding-Based Semantic Communication for Video Transmission, **<i>IEEE Transactions on Wireless Communications (Under Review)</i>**. 
 
-- Hao Qi, Ye Wang, **Jian Zou**, Fanyang Meng, Zhongqiang Zhang, Bin Li, and Yongsheng Liang*, Compressed-Sensing-Based Deep JSCC for Resource-Constrained Remote Sensing Transmission, **<i>IEEE Wireless Communications Letters (Accepted)</I>**. 
+- Hao Qi, Ye Wang, **Jian Zou**, Fanyang Meng, Zhongqiang Zhang, Bin Li, and Yongsheng Liang*, [Compressed-Sensing-Based Deep JSCC for Resource-Constrained Remote Sensing Transmission](https://ieeexplore.ieee.org/document/11643920), **<i>IEEE Wireless Communications Letters (Accepted)</I>**. 
 
-- Yangxuan Cheng, Fanyang Meng, **Jian Zou**,  Jiacheng Xie,  Zhongqiang Zhang, Ye Wang, and Yongsheng Liang*, Variable-length finite-rate CSI feedback with generative priors, **<i>IEEE Wireless Communications Letters (Accepted)</I>**. 
+- Yangxuan Cheng, Fanyang Meng, **Jian Zou**,  Jiacheng Xie,  Zhongqiang Zhang, Ye Wang, and Yongsheng Liang*, [Variable-length finite-rate CSI feedback with generative priors](https://ieeexplore.ieee.org/document/11690624), **<i>IEEE Wireless Communications Letters (Accepted)</I>**. 
 
 - Wenwu Xie, Zilong Li, **Jian Zou**, Ji Wang, Dan Yu*, Liang Yang, and Xingwang Li, A two-stage optimization framework for movable antenna: From positioning to trajectory tracking, **<i>IEEE Transactions on Cognitive Communications and Networking (Under Review)</i>**. 
 
@@ -33,7 +33,7 @@ microscopy](https://www.sciencedirect.com/science/article/pii/S0030399225011429?
 
  - **Jian Zou**, Wenwu Xie, Jian Xiao, Yongsheng Liang, Jules M. Moualeu, and Liang Yang*, [From analog to digital semantic communications: Architectures, challenges, and future directions](https://ieeexplore.ieee.org/document/11175642), **<i>IEEE Wireless Communications Magazine (IEEE WCM)</i>**. 
 
- - **Jian Zou**, Jian Xiao, Han Shen, Fanyang Meng, Wenwu Xie, Liang Yang, and Yongsheng Liang*, [Non-orthogonal superimposed pilot for goodput enhancement in digital semantic communication](https://ieeexplore.ieee.org/document/11015528), **<i>IEEE Transactions on Cognitive Communications and Networking (IEEE TCCN)</i>**, (**Highly Cited Paper**). 
+ - **Jian Zou**, Jian Xiao, Han Shen, Fanyang Meng, Wenwu Xie, Liang Yang, and Yongsheng Liang*, [Non-orthogonal superimposed pilot for goodput enhancement in digital semantic communication](https://ieeexplore.ieee.org/document/11015528), **<i>IEEE Transactions on Cognitive Communications and Networking (IEEE TCCN)</i>**, (**ESI Highly Cited Paper**). 
 
  - **Jian Zou**, Jian Xiao, Qingyu Mao, Shuai Liu, Bohuai Xiao, and Yongsheng Liang*, [Deep receiver for multi-layer data transmission with superimposed pilots](https://ieeexplore.ieee.org/document/10890516), **<i>2025 IEEE International Conference on Acoustics, Apeech and Signal Processing (ICASSP)</i>**. [<a target="_blank" href="./images/ICASSP 2025-Poster - New.pdf" >Poster</a>][<a target="_blank" href="./images/ICASSP 2025 - ppt.pdf" >PPT</a>]
 
