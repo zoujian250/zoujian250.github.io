@@ -1,6 +1,6 @@
 # 📝 Publications 
 
-My full paper list is shown at [my personal homepage](https://zoujian310.github.io/).
+My full paper list is shown at [my personal homepage](https://zoujian250.github.io/).
 
 #### 🧑‍🎨 2026
 
