@@ -8,9 +8,9 @@ My full paper list is shown at [my personal homepage](https://zoujian250.github.
 
 - **Jian Zou**, Mengchao Guo, Bohuai Xiao, Wenwu Xie, Fanyang Meng,  Renhai Feng, Liang Yang, and Yongsheng Liang*, Power-Adaptive Superposition Coding-Based Semantic Communication for Video Transmission, **<i>IEEE Transactions on Wireless Communications (Under Review)</i>**. 
 
-- Hao Qi, Ye Wang, **Jian Zou**, Fanyang Meng, Zhongqiang Zhang, Bin Li, and Yongsheng Liang*, [Compressed-Sensing-Based Deep JSCC for Resource-Constrained Remote Sensing Transmission](https://ieeexplore.ieee.org/document/11643920), **<i>IEEE Wireless Communications Letters (Accepted)</I>**. 
+- Hao Qi, Ye Wang, **Jian Zou**, Fanyang Meng, Zhongqiang Zhang, Bin Li, and Yongsheng Liang*, [Compressed-Sensing-Based Deep JSCC for Resource-Constrained Remote Sensing Transmission](https://ieeexplore.ieee.org/document/11643920), **<i>IEEE Wireless Communications Letters</I>**. 
 
-- Yangxuan Cheng, Fanyang Meng, **Jian Zou**,  Jiacheng Xie,  Zhongqiang Zhang, Ye Wang, and Yongsheng Liang*, [Variable-length finite-rate CSI feedback with generative priors](https://ieeexplore.ieee.org/document/11690624), **<i>IEEE Wireless Communications Letters (Accepted)</I>**. 
+- Yangxuan Cheng, Fanyang Meng, **Jian Zou**,  Jiacheng Xie,  Zhongqiang Zhang, Ye Wang, and Yongsheng Liang*, [Variable-length finite-rate CSI feedback with generative priors](https://ieeexplore.ieee.org/document/11690624), **<i>IEEE Wireless Communications Letters</I>**. 
 
 - Wenwu Xie, Zilong Li, **Jian Zou**, Ji Wang, Dan Yu*, Liang Yang, and Xingwang Li, A two-stage optimization framework for movable antenna: From positioning to trajectory tracking, **<i>IEEE Transactions on Cognitive Communications and Networking (Under Review)</i>**. 
 
