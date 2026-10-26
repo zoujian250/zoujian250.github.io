@@ -35,7 +35,7 @@ microscopy](https://www.sciencedirect.com/science/article/pii/S0030399225011429?
 
  - **Jian Zou**, Jian Xiao, Han Shen, Fanyang Meng, Wenwu Xie, Liang Yang, and Yongsheng Liang*, [Non-orthogonal superimposed pilot for goodput enhancement in digital semantic communication](https://ieeexplore.ieee.org/document/11015528), **<i>IEEE Transactions on Cognitive Communications and Networking (IEEE TCCN)</i>**, (**ESI Highly Cited Paper**). 
 
- - **Jian Zou**, Jian Xiao, Qingyu Mao, Shuai Liu, Bohuai Xiao, and Yongsheng Liang*, [Deep receiver for multi-layer data transmission with superimposed pilots](https://ieeexplore.ieee.org/document/10890516), **<i>2025 IEEE International Conference on Acoustics, Apeech and Signal Processing (ICASSP)</i>**. [<a target="_blank" href="./images/ICASSP 2025-Poster - New.pdf" >Poster</a>][<a target="_blank" href="./images/ICASSP 2025 - ppt.pdf" >PPT</a>]
+ - **Jian Zou**, Jian Xiao, Qingyu Mao, Shuai Liu, Bohuai Xiao, and Yongsheng Liang*, [Deep receiver for multi-layer data transmission with superimposed pilots](https://ieeexplore.ieee.org/document/10890516), **<i>2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</i>**. [<a target="_blank" href="./images/ICASSP 2025-Poster - New.pdf" >Poster</a>][<a target="_blank" href="./images/ICASSP 2025 - ppt.pdf" >PPT</a>]
 
 #### 👄 2024
  - **Jian Zou**, Qingyu Mao, Jian Xiao, Shuai Liu, and Yongsheng Liang*, [Distributed learning-based channel estimation and feedback for RIS-aided wireless communications](https://doi.org/10.1109/LWC.2024.3509612), **<i>IEEE Wireless Communications Letters (IEEE WCL)</i>**.
