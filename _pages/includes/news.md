@@ -1,6 +1,6 @@
 # 🔥 News
 
-Currently serves as a reviewer for **<i>IEEE TVT (1 time), IEEE TMLCN (1 time), IEEE TWC (3 time), PRCV (5 times), IEEE TCCN (4 times), IEEE WCL (1 time), and IEEE ECIS (3 times)</i>**.
+Currently serves as a reviewer for **<i>IEEE VTM (1 time), EAAI (1 time), ICASSP (5 time), IEEE TVT (2 time), IEEE TMLCN (1 time), IEEE TWC (5  time), PRCV (5 times), IEEE TCCN (4 times), IEEE WCL (2 time), and IEEE ECIS (3 times)</i>**.
 
 2026.10.26: 🎉 I was invited to be a peer reviewer for the **<i>IEEE Vehicular Technology Magazine (IEEE VTM)</I>**.
 
