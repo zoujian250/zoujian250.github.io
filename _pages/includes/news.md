@@ -1,6 +1,6 @@
 # 🔥 News
 
-Currently serves as a reviewer for **<i>IEEE JSAC (2 times), IEEE VTM (1 time), EAAI (1 time), ICASSP (5 times), IEEE TVT (2 times), IEEE TMLCN (1 time), IEEE TWC (5  times), PRCV (5 times), IEEE TCCN (4 times), IEEE WCL (2 times), and IEEE ECIS (3 times)</i>**.
+Currently serves as a reviewer for **<i>IEEE JSAC (4 times), IEEE VTM (1 time), EAAI (1 time), ICASSP (5 times), IEEE TVT (2 times), IEEE TMLCN (1 time), IEEE TWC (5  times), PRCV (5 times), IEEE TCCN (4 times), IEEE WCL (2 times), and IEEE ECIS (3 times)</i>**.
 
 2026.11.01: 🎉 I was invited to be a peer reviewer for the **<i>IEEE Journal on Selected Areas in Communications (IEEE JSAC)</I>**.
 
